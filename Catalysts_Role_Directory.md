@@ -1,0 +1,126 @@
+Catalysts Role Directory
+This directory contains the role titles supplied by HR for use by the Recruitment Screening Skill when assessing alternative role fit.
+Usage rule
+The Skill may suggest an alternative role only when there is evidence from the candidate CV that the candidate could reasonably match the role.
+The role title alone is not enough. When possible, the Skill should compare the candidate against the available JD/TOR for that role. If only the title is available, label the result as Indicative Role Match — JD validation required.
+Do not invent role titles.
+The list below preserves the role titles supplied by HR. Similar-looking titles are not silently merged because they may represent different projects, grades or scopes.
+Role titles
+- Senior Associate - Data Science
+- Assistant Manager - Resource Mobilisation
+- Manager
+- Manager - Evidence to Impact
+- Business Head - Community Sales
+- Legal Manager
+- Business Analyst
+- Business Development Manager
+- Regional Lead
+- Director - Investment Unit
+- Portfolio Lead
+- Manager - Data Science and Applied AI
+- Project Associate - Oct 2026
+- ERPNext Administrator
+- Programme & Partnerships Manager
+- Project Associate
+- CO Comms Lead
+- Project Manager
+- Associate, Health Solutions
+- District coordinator
+- Data Associate
+- Communication and advocacy Manger
+- Program Associate
+- Cluster Manager - 2026
+- People Process Partner
+- District coordinator - 01
+- Supply Chain Specialist
+- Operations Manager
+- Senior Software Engineer
+- Programme Manager - 2026
+- Programme Manager - Upfront 2026
+- Accounts Excecutive
+- Sales Executive
+- Sales Executive - CLV
+- Sales Executive - Prakruti Plus
+- Sales Manager
+- Block Coordinator
+- Software Engineer 2
+- Sales Lead
+- Project Lead
+- Admin Manager
+- MarComs Associate
+- Communications Catalyst
+- Assistant Manager - Livelihood
+- Project Coordinator
+- MIS and Documentation expert
+- Agri Extension manager
+- Project Associate - Hindupur
+- Program Manager
+- Project Associate - Tiruppur
+- Research Manager
+- State Coordination and IT Lead
+- Project Associate - 2026
+- Capacity Building Expert
+- Technical Specialist
+- Senior Research Associate
+- MEAL Associate
+- Programme Manager
+- Data Scientist
+- Communications Associate 2
+- Senior Consultant
+- Software Engineer
+- Cluster Manager
+- Marcom Manager
+- Accountant Cum MIS
+- Hospital Quality of Care & Public Health ( Public Health Lead)
+- Field Coordinator
+- Manager - Livelihood Consulting
+- State Project Head
+- Agri Expert
+- Regional Project Head
+- Accounts Executive
+- Marketing Manager
+- Enterprise Enabler
+- Junior Account Executive
+- Admin officer
+- Assistant Manager - Admin
+- Data Analyst
+- Quality Assurance coordinator
+- MIS Expert
+- Researcher - Livelihood
+- Manager - Customer Success
+- Associate - Machine Operator
+- Senior Public Health Specialist
+- Senior Accounts Executive
+- Agri Finance Practice Lead
+- Asst. HR Manager
+- Communications Associate
+- Program Coordinator
+- Location Coordinator
+- Institution Building Expert
+- Senior Manager
+- Technical Trainer
+- Junior GIS Analyst
+- Sustainable Agriculture Specialist
+- Technical Specialist - Health Research
+- State Program Manager
+- MEAL Manager
+- Operations Associate
+- Agri Finance Associate
+- Communication Manager
+- MIS & Accounts
+- Soil & Water Expert
+- MIS & Accountant
+- Soil and Water Expert
+- Pulses Expert
+- Community Organizer
+- Cluster Coordinator
+- Commercial Manager
+- Livelihood Consulting Lead
+- Research Associate
+- Project Co-Lead
+- Data Science Consultant
+- Project Manager - E4C
+- MarComs Specialist
+- Meal Specialist
+- Implementation Specialist
+- Assistant Manager, Monitoring & Coordination
